@@ -1,5 +1,4 @@
 Closing the Loop: The Effects of Biofeedback Awareness on Physiological Stress Response Using Electrodermal Activity in Virtual Reality
-
 Jessica Sehrt, Ugur Yilmaz, Thomas Kosch, and Valentin Schwind. 2024. 
 In Extended Abstracts of the CHI Conference on Human Factors in Computing Systems (CHI EA ’24), May 11–16, 2024, Honolulu, HI, USA. ACM, New York, NY, USA, 7 pages. 
 https://doi.org/10.1145/3613905.3650830

@@ -8,7 +8,7 @@ The project is implemented to work with a HTC Vive Pro Eye (a). Scenes include a
 We provide the dataset, including the Unity project, the log files, and the scripts we used for the evaluation of the results. 
 A detailed description of the study procedure and hardware integration can be found in the related dissertation (*doctoral thesis reference here, coming soon*).
 
-You find the whole evaluation data for the muscle location study here: https://www.dropbox.com/home/Evaluation%20EMG%20Biofeedback%20Modality/Evaluation%20EMG%20REACTION 
+You find the whole evaluation data for the muscle location study here: https://www.dropbox.com/scl/fo/p7oe5zew2fhjyzeipvh0w/ADZ1hsQ_zJxV0iHtl_ENtnI?rlkey=44oifsepcvcocj1ixfp1rz4he&st=omr7wun0&dl=0 
 
 We probed whether informing individuals of their capacity to manipulate the VR environment’s weather impacts their physiological stress responses  in a user study (N=30). Our results indicate lower EDA levels among participants who were informed of their biofeedback control than among those who were not informed. Interestingly, the participants who were informed about their ability to control the environment also manifested variations in their EDA responses. Participants who were not informed of their ability to control the weather showed decreased EDA measures until the end.
 

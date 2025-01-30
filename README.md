@@ -8,7 +8,10 @@ Our results indicate lower EDA levels among participants who were informed of th
 Unity Project was created using the Biosignalplux Unity sample in Unity 2019. It was then migrated to Unity 2020.3.5f1 and integrated the signal processing from the EDA Sensor with the 1-Channel OpenBan hub from biosignalplux (a).
 The project is implemented to work with a HTC Vive Pro Eye (a). Scenes include a nature environment for the relaxing phase (b), a VR-adapted mental arithmetic task (c) for stress baseline measures, and an EDA-adaptive nature environment (d).
 
-We provide the dataset, including the Unity project and the log files. A detailed description of the study procedure and hardware integration can be found in the related dissertation (*doctoral thesis reference here*).
+We provide the dataset, including the Unity project, the log files, and the scripts we used for the evaluation of the results. 
+A detailed description of the study procedure and hardware integration can be found in the related dissertation (*doctoral thesis reference here, coming soon*).
+
+You find the whole evaluation data for the muscle location study here: https://www.dropbox.com/home/Evaluation%20EMG%20Biofeedback%20Modality/Evaluation%20EMG%20REACTION 
 
 ![Storm](https://github.com/user-attachments/assets/7e5f4a55-871a-4fb1-bd44-e6de122119d2)
 

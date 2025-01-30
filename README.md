@@ -1,15 +1,15 @@
-# Closing the Loop: The Effects of Biofeedback Awareness on Physiological Stress Response Using Electrodermal Activity in Virtual Reality
+# Biofeedback Awareness
 
-Unity Project was created using the Biosignalplux Unity sample in Unity 2019.
-It was then migrated to Unity 2020.3.5f1 and integrated the signal processing from biosignals the biosignalplux EDA Sensor.
-The project is implemented to work with a HTC Vive Pro Eye, Version 2022.
-
-This research presents the results of a user study (N=30) examining the impact of biofeedback awareness on the effectiveness physiological interaction with Electrodermal Activity (EDA) as the primary metric within an immersive Virtual Reality (VR). 
+This research presents the results of a user study (N=30) examining the impact of biofeedback awareness on the effectiveness of physiological interaction with Electrodermal Activity (EDA) as the primary metric within an immersive Virtual Reality (VR). 
 We probed whether informing individuals of their capacity to manipulate the VR environment’s weather impacts their physiological stress responses. 
 
-Our results indicate lower EDA levels of participants who were informed of their biofeedback control than those participants who were not informed about their biofeedback control. Interestingly, the participants who were informed about the control over the environment also manifested variations in their EDA responses. Participants who were not informed of their ability to control the weather showed decreased EDA measures until the end of the biofeedback phase. 
+Our results indicate lower EDA levels among participants who were informed of their biofeedback control than among those who were not informed. Interestingly, the participants who were informed about their ability to control the environment also manifested variations in their EDA responses. Participants who were not informed of their ability to control the weather showed decreased EDA measures until the end of the biofeedback phase.
 
-To motivate further investigations on the base of this research we provide the dataset including the Unity project and the log files. A detailled description of the study procedure and hardare integration can be found in the related dissertation (*doctoral thesis reference here*). Please feel free to contact me if you have any questions.
+Unity Project was created using the Biosignalplux Unity sample in Unity 2019.
+It was then migrated to Unity 2020.3.5f1 and integrated the signal processing from biosignals to the biosignalplux EDA Sensor with the 1-Channel OpenBan hub from biosignalplux.
+The project is implemented to work with a HTC Vive Pro Eye, Version 2022.
+
+We provide the dataset, including the Unity project and the log files. A detailed description of the study procedure and hardware integration can be found in the related dissertation (*doctoral thesis reference here*). Please feel free to contact me if you have any questions.
 
 ![Storm](https://github.com/user-attachments/assets/7e5f4a55-871a-4fb1-bd44-e6de122119d2)
 

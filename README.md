@@ -3,11 +3,10 @@
 This research presents the results of a user study (N=30) examining the impact of biofeedback awareness on the effectiveness of physiological interaction with Electrodermal Activity (EDA) as the primary metric within an immersive Virtual Reality (VR). 
 We probed whether informing individuals of their capacity to manipulate the VR environment’s weather impacts their physiological stress responses. 
 
-Our results indicate lower EDA levels among participants who were informed of their biofeedback control than among those who were not informed. Interestingly, the participants who were informed about their ability to control the environment also manifested variations in their EDA responses. Participants who were not informed of their ability to control the weather showed decreased EDA measures until the end of the biofeedback phase.
+Our results indicate lower EDA levels among participants who were informed of their biofeedback control than among those who were not informed. Interestingly, the participants who were informed about their ability to control the environment also manifested variations in their EDA responses. Participants who were not informed of their ability to control the weather showed decreased EDA measures until the end.
 
-Unity Project was created using the Biosignalplux Unity sample in Unity 2019.
-It was then migrated to Unity 2020.3.5f1 and integrated the signal processing from biosignals to the biosignalplux EDA Sensor with the 1-Channel OpenBan hub from biosignalplux.
-The project is implemented to work with a HTC Vive Pro Eye, Version 2022.
+Unity Project was created using the Biosignalplux Unity sample in Unity 2019. It was then migrated to Unity 2020.3.5f1 and integrated the signal processing from the EDA Sensor with the 1-Channel OpenBan hub from biosignalplux (a).
+The project is implemented to work with a HTC Vive Pro Eye (a). Scenes include a nature environment for the relaxing phase (b), a VR-adapted mental arithmetic task (c) for stress baseline measures, and an EDA-adaptive nature environment (d).
 
 We provide the dataset, including the Unity project and the log files. A detailed description of the study procedure and hardware integration can be found in the related dissertation (*doctoral thesis reference here*). Please feel free to contact me if you have any questions.
 

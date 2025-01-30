@@ -6,7 +6,7 @@ Unity Project was created using the Biosignalplux Unity sample in Unity 2019. It
 The project is implemented to work with a HTC Vive Pro Eye (a). Scenes include a nature environment for the relaxing phase (b), a VR-adapted mental arithmetic task (c) for stress baseline measures, and an EDA-adaptive nature environment (d).
 
 We provide the dataset, including the Unity project, the log files, and the scripts we used for the evaluation of the results. 
-A detailed description of the study procedure and hardware integration can be found in the related dissertation (*doctoral thesis reference here, coming soon*).
+A detailed description of the study procedure and hardware integration can be found in the related publication (see below).
 
 You find the whole evaluation data for the muscle location study here: https://www.dropbox.com/scl/fo/p7oe5zew2fhjyzeipvh0w/ADZ1hsQ_zJxV0iHtl_ENtnI?rlkey=44oifsepcvcocj1ixfp1rz4he&st=omr7wun0&dl=0 
 

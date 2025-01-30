@@ -2,7 +2,7 @@
 
 This research presents the results on the impact of biofeedback awareness on the effectiveness of physiological interaction with Electrodermal Activity (EDA) as the primary metric within an adaptive Virtual Reality environement.
 
-Unity Project was created using the Biosignalplux Unity sample in Unity 2019. It was then migrated to Unity 2020.3.5f1 and integrated the signal processing from the EDA Sensor with the 1-Channel OpenBan hub from biosignalplux (a).
+Unity Project was created using the Biosignalplux Unity sample in Unity 2019. It was then migrated to Unity 2020.3.5f1 and integrated the signal processing from the EDA Sensor with the 1-Channel OpenBan hub from biosignalplux (a in image below).
 The project is implemented to work with a HTC Vive Pro Eye (a). Scenes include a nature environment for the relaxing phase (b), a VR-adapted mental arithmetic task (c) for stress baseline measures, and an EDA-adaptive nature environment (d).
 
 We provide the dataset, including the Unity project, the log files, and the scripts we used for the evaluation of the results. 
